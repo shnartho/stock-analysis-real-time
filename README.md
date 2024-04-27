@@ -16,6 +16,14 @@ This project provides a comprehensive guide to implementing an end-to-end data e
   5. EC2
 - **Apache Kafka**
 
+## Steps
+1. Install Kafka [!kafka_installation](https://medium.com/@neupane.krishna33/how-to-install-apache-kafka-and-rsyslog-on-ubuntu-20-04-90fea750d8f5). Incase of insufficient pysical memory use swap memory. Here are the commands, <br>
+"sudo fallocate -l 2G /swapfile<br>
+sudo chmod 600 /swapfile<br>
+sudo mkswap /swapfile<br>
+sudo swapon /swapfile<br>
+"
+
 ## Dataset
 You have the flexibility to choose any dataset that suits your requirements. However, for demonstration purposes, we've provided a sample dataset to showcase the data pipeline building process.
 
