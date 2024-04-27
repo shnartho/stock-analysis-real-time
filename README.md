@@ -35,6 +35,8 @@ sudo swapon /swapfile<br>
 ![s3](./statics/s3.png)
 8. AWS athena live query 
 ![athena](./statics/query.png)
+9. use Terraform as IaC
+![tf](./statics/tf.png)
 
 
 ## Important Commands:
