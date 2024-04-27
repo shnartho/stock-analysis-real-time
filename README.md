@@ -1,7 +1,6 @@
 # Real-Time Stock Market Analysis using Kafka
 
-## Introduction
-This project provides a comprehensive guide to implementing an end-to-end data engineering solution for real-time stock market data using Apache Kafka. Through this project, you'll gain hands-on experience in processing and analyzing real-time data streams efficiently.
+This project offers a hands-on approach to building an end-to-end data engineering solution for processing real-time stock market data with Apache Kafka. By working through this project, you'll dive into the practical aspects of managing and analyzing data streams in real-time.
 
 ## Architecture
 ![Architecture Diagram](./statics/arc.png)
@@ -35,7 +34,7 @@ sudo swapon /swapfile<br>
 ![s3](./statics/s3.png)
 8. AWS athena live query 
 ![athena](./statics/query.png)
-9. use Terraform as IaC
+9. use Terraform as IaC <br>
 ![tf](./statics/tf.png)
 
 

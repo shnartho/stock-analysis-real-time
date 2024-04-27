@@ -25,3 +25,4 @@ crash.log
 
 # Ignore .tfplan files
 *.tfplan
+.terraform.lock.hcl
