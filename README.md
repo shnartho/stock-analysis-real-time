@@ -3,7 +3,7 @@
 This project offers a hands-on approach to building an end-to-end data engineering solution for processing real-time stock market data with Apache Kafka. By working through this project, you'll dive into the practical aspects of managing and analyzing data streams in real-time.
 
 ## Architecture
-![Architecture Diagram](./statics/arch.png)
+![Architecture Diagram](./statics/arc.png)
 
 ## Steps
 1. Install Kafka [!kafka_installation](https://medium.com/@neupane.krishna33/how-to-install-apache-kafka-and-rsyslog-on-ubuntu-20-04-90fea750d8f5). Incase of insufficient pysical memory use swap memory. Here are the commands, <br>
