@@ -1,0 +1,29 @@
+2024-04-27 16:09:16,520 - INFO - Message sent to Kafka topic: testKafka
+2024-04-27 16:09:18,521 - INFO - Message sent to Kafka topic: testKafka
+2024-04-27 16:09:20,523 - INFO - Message sent to Kafka topic: testKafka
+2024-04-27 16:09:22,525 - INFO - Message sent to Kafka topic: testKafka
+2024-04-27 16:09:24,526 - INFO - Message sent to Kafka topic: testKafka
+2024-04-27 16:09:26,528 - INFO - Message sent to Kafka topic: testKafka
+2024-04-27 16:09:27,731 - INFO - Producer flushed and closed.
+2024-04-27 17:07:26,573 - INFO - Message sent to Kafka topic: testKafka
+2024-04-27 17:07:28,573 - INFO - Message sent to Kafka topic: testKafka
+2024-04-27 17:07:30,575 - INFO - Message sent to Kafka topic: testKafka
+2024-04-27 17:07:32,576 - INFO - Message sent to Kafka topic: testKafka
+2024-04-27 17:07:34,577 - INFO - Message sent to Kafka topic: testKafka
+2024-04-27 17:07:36,578 - INFO - Message sent to Kafka topic: testKafka
+2024-04-27 17:07:38,579 - INFO - Message sent to Kafka topic: testKafka
+2024-04-27 17:07:40,580 - INFO - Message sent to Kafka topic: testKafka
+2024-04-27 17:07:42,581 - INFO - Message sent to Kafka topic: testKafka
+2024-04-27 17:07:42,959 - INFO - Producer flushed and closed.
+2024-04-27 19:30:09,285 - INFO - Message sent to Kafka topic: testKafka
+2024-04-27 19:30:11,286 - INFO - Message sent to Kafka topic: testKafka
+2024-04-27 19:30:13,287 - INFO - Message sent to Kafka topic: testKafka
+2024-04-27 19:30:15,288 - INFO - Message sent to Kafka topic: testKafka
+2024-04-27 19:30:17,289 - INFO - Message sent to Kafka topic: testKafka
+2024-04-27 19:30:19,291 - INFO - Message sent to Kafka topic: testKafka
+2024-04-27 19:30:21,292 - INFO - Message sent to Kafka topic: testKafka
+2024-04-27 19:30:23,293 - INFO - Message sent to Kafka topic: testKafka
+2024-04-27 19:30:25,294 - INFO - Message sent to Kafka topic: testKafka
+2024-04-27 19:30:27,295 - INFO - Message sent to Kafka topic: testKafka
+2024-04-27 19:30:29,297 - INFO - Message sent to Kafka topic: testKafka
+2024-04-27 19:30:30,500 - INFO - Producer flushed and closed.

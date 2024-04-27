@@ -1,0 +1,145 @@
+2024-04-27 16:09:15,002 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '31/12/86', 'Open': 2568.300049, 'High': 2568.300049, 'Low': 2568.300049, 'Close': 2568.300049, 'Adj Close': 2568.300049, 'Volume': 0, 'CloseUSD': 333.8790064}
+2024-04-27 16:09:16,807 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '02/01/87', 'Open': 2540.100098, 'High': 2540.100098, 'Low': 2540.100098, 'Close': 2540.100098, 'Adj Close': 2540.100098, 'Volume': 0, 'CloseUSD': 330.2130127}
+2024-04-27 16:09:18,807 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '05/01/87', 'Open': 2552.399902, 'High': 2552.399902, 'Low': 2552.399902, 'Close': 2552.399902, 'Adj Close': 2552.399902, 'Volume': 0, 'CloseUSD': 331.8119873}
+2024-04-27 16:09:20,812 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '06/01/87', 'Open': 2583.899902, 'High': 2583.899902, 'Low': 2583.899902, 'Close': 2583.899902, 'Adj Close': 2583.899902, 'Volume': 0, 'CloseUSD': 335.9069873}
+2024-04-27 16:09:22,828 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '07/01/87', 'Open': 2607.100098, 'High': 2607.100098, 'Low': 2607.100098, 'Close': 2607.100098, 'Adj Close': 2607.100098, 'Volume': 0, 'CloseUSD': 338.9230127}
+2024-04-27 16:09:24,812 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '08/01/87', 'Open': 2603.300049, 'High': 2603.300049, 'Low': 2603.300049, 'Close': 2603.300049, 'Adj Close': 2603.300049, 'Volume': 0, 'CloseUSD': 338.4290064}
+2024-04-27 16:09:26,814 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '09/01/87', 'Open': 2561.699951, 'High': 2561.699951, 'Low': 2561.699951, 'Close': 2561.699951, 'Adj Close': 2561.699951, 'Volume': 0, 'CloseUSD': 333.0209936}
+2024-04-27 16:09:58,039 - INFO - Consumer stopped by user
+2024-04-27 16:09:58,271 - INFO - Consumer closed
+2024-04-27 17:07:25,072 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '31/12/86', 'Open': 2568.300049, 'High': 2568.300049, 'Low': 2568.300049, 'Close': 2568.300049, 'Adj Close': 2568.300049, 'Volume': 0, 'CloseUSD': 333.8790064}
+2024-04-27 17:07:25,818 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 17:07:26,858 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '02/01/87', 'Open': 2540.100098, 'High': 2540.100098, 'Low': 2540.100098, 'Close': 2540.100098, 'Adj Close': 2540.100098, 'Volume': 0, 'CloseUSD': 330.2130127}
+2024-04-27 17:07:27,113 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 17:07:28,860 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '05/01/87', 'Open': 2552.399902, 'High': 2552.399902, 'Low': 2552.399902, 'Close': 2552.399902, 'Adj Close': 2552.399902, 'Volume': 0, 'CloseUSD': 331.8119873}
+2024-04-27 17:07:29,159 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 17:07:30,853 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '06/01/87', 'Open': 2583.899902, 'High': 2583.899902, 'Low': 2583.899902, 'Close': 2583.899902, 'Adj Close': 2583.899902, 'Volume': 0, 'CloseUSD': 335.9069873}
+2024-04-27 17:07:31,125 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 17:07:32,856 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '07/01/87', 'Open': 2607.100098, 'High': 2607.100098, 'Low': 2607.100098, 'Close': 2607.100098, 'Adj Close': 2607.100098, 'Volume': 0, 'CloseUSD': 338.9230127}
+2024-04-27 17:07:33,111 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 17:07:34,874 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '08/01/87', 'Open': 2603.300049, 'High': 2603.300049, 'Low': 2603.300049, 'Close': 2603.300049, 'Adj Close': 2603.300049, 'Volume': 0, 'CloseUSD': 338.4290064}
+2024-04-27 17:07:35,125 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 17:07:36,856 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '09/01/87', 'Open': 2561.699951, 'High': 2561.699951, 'Low': 2561.699951, 'Close': 2561.699951, 'Adj Close': 2561.699951, 'Volume': 0, 'CloseUSD': 333.0209936}
+2024-04-27 17:07:37,122 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 17:07:38,872 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '12/01/87', 'Open': 2614.899902, 'High': 2614.899902, 'Low': 2614.899902, 'Close': 2614.899902, 'Adj Close': 2614.899902, 'Volume': 0, 'CloseUSD': 339.9369873}
+2024-04-27 17:07:39,124 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 17:07:40,858 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '13/01/87', 'Open': 2590.800049, 'High': 2590.800049, 'Low': 2590.800049, 'Close': 2590.800049, 'Adj Close': 2590.800049, 'Volume': 0, 'CloseUSD': 336.8040064}
+2024-04-27 17:07:41,109 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 17:07:42,862 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '14/01/87', 'Open': 2578.199951, 'High': 2578.199951, 'Low': 2578.199951, 'Close': 2578.199951, 'Adj Close': 2578.199951, 'Volume': 0, 'CloseUSD': 335.1659936}
+2024-04-27 17:07:43,124 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 19:30:00,385 - INFO - Consumer stopped by user
+2024-04-27 19:30:00,635 - INFO - Consumer closed
+2024-04-27 19:30:07,907 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '31/12/86', 'Open': 2568.300049, 'High': 2568.300049, 'Low': 2568.300049, 'Close': 2568.300049, 'Adj Close': 2568.300049, 'Volume': 0, 'CloseUSD': 333.8790064}
+2024-04-27 19:30:08,752 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 19:30:09,594 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '02/01/87', 'Open': 2540.100098, 'High': 2540.100098, 'Low': 2540.100098, 'Close': 2540.100098, 'Adj Close': 2540.100098, 'Volume': 0, 'CloseUSD': 330.2130127}
+2024-04-27 19:30:09,902 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 19:30:12,223 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '05/01/87', 'Open': 2552.399902, 'High': 2552.399902, 'Low': 2552.399902, 'Close': 2552.399902, 'Adj Close': 2552.399902, 'Volume': 0, 'CloseUSD': 331.8119873}
+2024-04-27 19:30:12,592 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 19:30:13,601 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '06/01/87', 'Open': 2583.899902, 'High': 2583.899902, 'Low': 2583.899902, 'Close': 2583.899902, 'Adj Close': 2583.899902, 'Volume': 0, 'CloseUSD': 335.9069873}
+2024-04-27 19:30:13,883 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 19:30:15,574 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '07/01/87', 'Open': 2607.100098, 'High': 2607.100098, 'Low': 2607.100098, 'Close': 2607.100098, 'Adj Close': 2607.100098, 'Volume': 0, 'CloseUSD': 338.9230127}
+2024-04-27 19:30:15,832 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 19:30:17,570 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '08/01/87', 'Open': 2603.300049, 'High': 2603.300049, 'Low': 2603.300049, 'Close': 2603.300049, 'Adj Close': 2603.300049, 'Volume': 0, 'CloseUSD': 338.4290064}
+2024-04-27 19:30:17,848 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 19:30:19,593 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '09/01/87', 'Open': 2561.699951, 'High': 2561.699951, 'Low': 2561.699951, 'Close': 2561.699951, 'Adj Close': 2561.699951, 'Volume': 0, 'CloseUSD': 333.0209936}
+2024-04-27 19:30:19,916 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 19:30:21,617 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '12/01/87', 'Open': 2614.899902, 'High': 2614.899902, 'Low': 2614.899902, 'Close': 2614.899902, 'Adj Close': 2614.899902, 'Volume': 0, 'CloseUSD': 339.9369873}
+2024-04-27 19:30:21,923 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 19:30:23,568 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '13/01/87', 'Open': 2590.800049, 'High': 2590.800049, 'Low': 2590.800049, 'Close': 2590.800049, 'Adj Close': 2590.800049, 'Volume': 0, 'CloseUSD': 336.8040064}
+2024-04-27 19:30:23,816 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 19:30:25,571 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '14/01/87', 'Open': 2578.199951, 'High': 2578.199951, 'Low': 2578.199951, 'Close': 2578.199951, 'Adj Close': 2578.199951, 'Volume': 0, 'CloseUSD': 335.1659936}
+2024-04-27 19:30:25,828 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 19:30:27,579 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '15/01/87', 'Open': 2559.100098, 'High': 2559.100098, 'Low': 2559.100098, 'Close': 2559.100098, 'Adj Close': 2559.100098, 'Volume': 0, 'CloseUSD': 332.6830127}
+2024-04-27 19:30:27,858 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 19:30:29,594 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '16/01/87', 'Open': 2542.600098, 'High': 2542.600098, 'Low': 2542.600098, 'Close': 2542.600098, 'Adj Close': 2542.600098, 'Volume': 0, 'CloseUSD': 330.5380127}
+2024-04-27 19:30:29,843 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:03:32,009 - INFO - Consumer stopped by user
+2024-04-27 20:03:32,244 - INFO - Consumer closed
+2024-04-27 20:38:24,661 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '31/12/86', 'Open': 2568.300049, 'High': 2568.300049, 'Low': 2568.300049, 'Close': 2568.300049, 'Adj Close': 2568.300049, 'Volume': 0, 'CloseUSD': 333.8790064}
+2024-04-27 20:38:25,427 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:38:25,427 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '02/01/87', 'Open': 2540.100098, 'High': 2540.100098, 'Low': 2540.100098, 'Close': 2540.100098, 'Adj Close': 2540.100098, 'Volume': 0, 'CloseUSD': 330.2130127}
+2024-04-27 20:38:25,682 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:38:25,682 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '05/01/87', 'Open': 2552.399902, 'High': 2552.399902, 'Low': 2552.399902, 'Close': 2552.399902, 'Adj Close': 2552.399902, 'Volume': 0, 'CloseUSD': 331.8119873}
+2024-04-27 20:38:25,935 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:38:25,935 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '06/01/87', 'Open': 2583.899902, 'High': 2583.899902, 'Low': 2583.899902, 'Close': 2583.899902, 'Adj Close': 2583.899902, 'Volume': 0, 'CloseUSD': 335.9069873}
+2024-04-27 20:38:26,205 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:38:26,206 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '07/01/87', 'Open': 2607.100098, 'High': 2607.100098, 'Low': 2607.100098, 'Close': 2607.100098, 'Adj Close': 2607.100098, 'Volume': 0, 'CloseUSD': 338.9230127}
+2024-04-27 20:38:26,470 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:38:26,471 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '08/01/87', 'Open': 2603.300049, 'High': 2603.300049, 'Low': 2603.300049, 'Close': 2603.300049, 'Adj Close': 2603.300049, 'Volume': 0, 'CloseUSD': 338.4290064}
+2024-04-27 20:38:26,720 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:38:26,720 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '09/01/87', 'Open': 2561.699951, 'High': 2561.699951, 'Low': 2561.699951, 'Close': 2561.699951, 'Adj Close': 2561.699951, 'Volume': 0, 'CloseUSD': 333.0209936}
+2024-04-27 20:38:26,966 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:38:26,966 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '12/01/87', 'Open': 2614.899902, 'High': 2614.899902, 'Low': 2614.899902, 'Close': 2614.899902, 'Adj Close': 2614.899902, 'Volume': 0, 'CloseUSD': 339.9369873}
+2024-04-27 20:38:27,217 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:38:27,217 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '13/01/87', 'Open': 2590.800049, 'High': 2590.800049, 'Low': 2590.800049, 'Close': 2590.800049, 'Adj Close': 2590.800049, 'Volume': 0, 'CloseUSD': 336.8040064}
+2024-04-27 20:38:27,468 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:38:29,015 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '14/01/87', 'Open': 2578.199951, 'High': 2578.199951, 'Low': 2578.199951, 'Close': 2578.199951, 'Adj Close': 2578.199951, 'Volume': 0, 'CloseUSD': 335.1659936}
+2024-04-27 20:38:29,268 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:38:31,015 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '15/01/87', 'Open': 2559.100098, 'High': 2559.100098, 'Low': 2559.100098, 'Close': 2559.100098, 'Adj Close': 2559.100098, 'Volume': 0, 'CloseUSD': 332.6830127}
+2024-04-27 20:38:31,253 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:38:33,019 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '16/01/87', 'Open': 2542.600098, 'High': 2542.600098, 'Low': 2542.600098, 'Close': 2542.600098, 'Adj Close': 2542.600098, 'Volume': 0, 'CloseUSD': 330.5380127}
+2024-04-27 20:38:33,272 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:38:35,029 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '19/01/87', 'Open': 2460.5, 'High': 2460.5, 'Low': 2460.5, 'Close': 2460.5, 'Adj Close': 2460.5, 'Volume': 0, 'CloseUSD': 319.865}
+2024-04-27 20:38:35,274 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:38:37,020 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '20/01/87', 'Open': 2449.899902, 'High': 2449.899902, 'Low': 2449.899902, 'Close': 2449.899902, 'Adj Close': 2449.899902, 'Volume': 0, 'CloseUSD': 318.4869873}
+2024-04-27 20:38:37,432 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:38:39,023 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '21/01/87', 'Open': 2533.899902, 'High': 2533.899902, 'Low': 2533.899902, 'Close': 2533.899902, 'Adj Close': 2533.899902, 'Volume': 0, 'CloseUSD': 329.4069873}
+2024-04-27 20:38:40,637 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:38:41,022 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '22/01/87', 'Open': 2536.899902, 'High': 2536.899902, 'Low': 2536.899902, 'Close': 2536.899902, 'Adj Close': 2536.899902, 'Volume': 0, 'CloseUSD': 329.7969873}
+2024-04-27 20:38:41,276 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:38:43,021 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '23/01/87', 'Open': 2499.399902, 'High': 2499.399902, 'Low': 2499.399902, 'Close': 2499.399902, 'Adj Close': 2499.399902, 'Volume': 0, 'CloseUSD': 324.9219873}
+2024-04-27 20:38:43,380 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:38:45,028 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '26/01/87', 'Open': 2484.399902, 'High': 2484.399902, 'Low': 2484.399902, 'Close': 2484.399902, 'Adj Close': 2484.399902, 'Volume': 0, 'CloseUSD': 322.9719873}
+2024-04-27 20:38:45,289 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:38:47,023 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '27/01/87', 'Open': 2524.0, 'High': 2524.0, 'Low': 2524.0, 'Close': 2524.0, 'Adj Close': 2524.0, 'Volume': 0, 'CloseUSD': 328.12}
+2024-04-27 20:38:47,279 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:38:49,143 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '28/01/87', 'Open': 2553.300049, 'High': 2553.300049, 'Low': 2553.300049, 'Close': 2553.300049, 'Adj Close': 2553.300049, 'Volume': 0, 'CloseUSD': 331.9290064}
+2024-04-27 20:38:49,391 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:38:51,093 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '02/02/87', 'Open': 2585.199951, 'High': 2585.199951, 'Low': 2585.199951, 'Close': 2585.199951, 'Adj Close': 2585.199951, 'Volume': 0, 'CloseUSD': 336.0759936}
+2024-04-27 20:38:51,342 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:38:53,046 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '03/02/87', 'Open': 2606.399902, 'High': 2606.399902, 'Low': 2606.399902, 'Close': 2606.399902, 'Adj Close': 2606.399902, 'Volume': 0, 'CloseUSD': 338.8319873}
+2024-04-27 20:38:53,837 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:38:55,030 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '04/02/87', 'Open': 2636.600098, 'High': 2636.600098, 'Low': 2636.600098, 'Close': 2636.600098, 'Adj Close': 2636.600098, 'Volume': 0, 'CloseUSD': 342.7580127}
+2024-04-27 20:38:55,278 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:38:57,030 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '05/02/87', 'Open': 2672.399902, 'High': 2672.399902, 'Low': 2672.399902, 'Close': 2672.399902, 'Adj Close': 2672.399902, 'Volume': 0, 'CloseUSD': 347.4119873}
+2024-04-27 20:38:57,280 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:38:59,032 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '06/02/87', 'Open': 2673.600098, 'High': 2673.600098, 'Low': 2673.600098, 'Close': 2673.600098, 'Adj Close': 2673.600098, 'Volume': 0, 'CloseUSD': 347.5680127}
+2024-04-27 20:38:59,324 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:39:01,150 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '09/02/87', 'Open': 2713.699951, 'High': 2713.699951, 'Low': 2713.699951, 'Close': 2713.699951, 'Adj Close': 2713.699951, 'Volume': 0, 'CloseUSD': 352.7809936}
+2024-04-27 20:39:01,470 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:39:03,039 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '10/02/87', 'Open': 2694.899902, 'High': 2694.899902, 'Low': 2694.899902, 'Close': 2694.899902, 'Adj Close': 2694.899902, 'Volume': 0, 'CloseUSD': 350.3369873}
+2024-04-27 20:39:03,292 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:39:05,037 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '11/02/87', 'Open': 2739.5, 'High': 2739.5, 'Low': 2739.5, 'Close': 2739.5, 'Adj Close': 2739.5, 'Volume': 0, 'CloseUSD': 356.135}
+2024-04-27 20:39:05,289 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:39:07,035 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '12/02/87', 'Open': 2754.699951, 'High': 2754.699951, 'Low': 2754.699951, 'Close': 2754.699951, 'Adj Close': 2754.699951, 'Volume': 0, 'CloseUSD': 358.1109936}
+2024-04-27 20:39:07,286 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:39:09,036 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '13/02/87', 'Open': 2740.5, 'High': 2740.5, 'Low': 2740.5, 'Close': 2740.5, 'Adj Close': 2740.5, 'Volume': 0, 'CloseUSD': 356.265}
+2024-04-27 20:39:09,285 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:39:11,040 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '16/02/87', 'Open': 2766.100098, 'High': 2766.100098, 'Low': 2766.100098, 'Close': 2766.100098, 'Adj Close': 2766.100098, 'Volume': 0, 'CloseUSD': 359.5930127}
+2024-04-27 20:39:11,292 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:39:13,042 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '17/02/87', 'Open': 2792.100098, 'High': 2792.100098, 'Low': 2792.100098, 'Close': 2792.100098, 'Adj Close': 2792.100098, 'Volume': 0, 'CloseUSD': 362.9730127}
+2024-04-27 20:39:13,300 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:39:15,048 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '18/02/87', 'Open': 2801.5, 'High': 2801.5, 'Low': 2801.5, 'Close': 2801.5, 'Adj Close': 2801.5, 'Volume': 0, 'CloseUSD': 364.195}
+2024-04-27 20:39:15,410 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:39:17,045 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '19/02/87', 'Open': 2775.800049, 'High': 2775.800049, 'Low': 2775.800049, 'Close': 2775.800049, 'Adj Close': 2775.800049, 'Volume': 0, 'CloseUSD': 360.8540064}
+2024-04-27 20:39:17,302 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:39:19,043 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '20/02/87', 'Open': 2827.399902, 'High': 2827.399902, 'Low': 2827.399902, 'Close': 2827.399902, 'Adj Close': 2827.399902, 'Volume': 0, 'CloseUSD': 367.5619873}
+2024-04-27 20:39:19,294 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:39:21,044 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '23/02/87', 'Open': 2879.0, 'High': 2879.0, 'Low': 2879.0, 'Close': 2879.0, 'Adj Close': 2879.0, 'Volume': 0, 'CloseUSD': 374.27}
+2024-04-27 20:39:21,289 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:39:23,044 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '24/02/87', 'Open': 2848.199951, 'High': 2848.199951, 'Low': 2848.199951, 'Close': 2848.199951, 'Adj Close': 2848.199951, 'Volume': 0, 'CloseUSD': 370.2659936}
+2024-04-27 20:39:23,340 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:39:25,046 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '25/02/87', 'Open': 2873.600098, 'High': 2873.600098, 'Low': 2873.600098, 'Close': 2873.600098, 'Adj Close': 2873.600098, 'Volume': 0, 'CloseUSD': 373.5680127}
+2024-04-27 20:39:25,297 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:39:27,053 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '26/02/87', 'Open': 2843.600098, 'High': 2843.600098, 'Low': 2843.600098, 'Close': 2843.600098, 'Adj Close': 2843.600098, 'Volume': 0, 'CloseUSD': 369.6680127}
+2024-04-27 20:39:27,299 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:39:29,048 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '27/02/87', 'Open': 2877.899902, 'High': 2877.899902, 'Low': 2877.899902, 'Close': 2877.899902, 'Adj Close': 2877.899902, 'Volume': 0, 'CloseUSD': 374.1269873}
+2024-04-27 20:39:29,297 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:39:31,047 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '02/03/87', 'Open': 2894.300049, 'High': 2894.300049, 'Low': 2894.300049, 'Close': 2894.300049, 'Adj Close': 2894.300049, 'Volume': 0, 'CloseUSD': 376.2590064}
+2024-04-27 20:39:31,304 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:39:33,057 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '03/03/87', 'Open': 2939.100098, 'High': 2939.100098, 'Low': 2939.100098, 'Close': 2939.100098, 'Adj Close': 2939.100098, 'Volume': 0, 'CloseUSD': 382.0830127}
+2024-04-27 20:39:33,309 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:39:35,051 - INFO - Received JSON message: {'Index': 'HSI', 'Date': '04/03/87', 'Open': 2890.899902, 'High': 2890.899902, 'Low': 2890.899902, 'Close': 2890.899902, 'Adj Close': 2890.899902, 'Volume': 0, 'CloseUSD': 375.8169873}
+2024-04-27 20:39:35,305 - INFO - Data uploaded to S3 bucket: kafka-stock-price
+2024-04-27 20:42:52,800 - INFO - Consumer stopped by user
+2024-04-27 20:42:53,034 - INFO - Consumer closed

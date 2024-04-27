@@ -1,0 +1,22 @@
+version: '3.8'
+services:
+  kafka-consumer:
+    image: stock-consumer:latest
+    environment:
+      - KAFKA_BROKER_ADDR=35.172.219.231:9092
+      - GROUP_ID=my-consumer-group
+      - KAFKA_TOPIC_NAME=stockKafka
+      - BUCKET_NAME=kafka-stock-price
+      - AWS_ACCESS_KEY_ID=AKIAXFXWMOGNSVP2KART
+      - AWS_SECRET_ACCESS_KEY=i0WiAwX581zp7FxzHePWR5jiJzUmQ2OFXbjt
+    volumes:
+      - F:\stock-analysis-real-time\statics\consumer.log:/app/consumer.log
+  
+  kafka-producer:
+    image: stock-producer:latest
+    environment:
+      - KAFKA_BROKER_ADDR=35.172.219.231:9092
+      - KAFKA_TOPIC_NAME=stockKafka
+    volumes:
+      - F:\stock-analysis-real-time\statics\producer.log:/app/producer.log
+    
