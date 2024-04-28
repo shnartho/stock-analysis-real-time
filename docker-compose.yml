@@ -8,7 +8,7 @@ services:
       - KAFKA_TOPIC_NAME=stockKafka
       - BUCKET_NAME=kafka-stock-price
       - AWS_ACCESS_KEY_ID=AKIAXFXWMOGNSVP2KART
-      - AWS_SECRET_ACCESS_KEY=i0WiAwX581zp7FxzHePWR5jiJzUmQ2OFXbjt
+      - AWS_SECRET_ACCESS_KEY=i0WiAwX581zp7FxzHePWR5jiJzUmQ2OFXbjt #example
     volumes:
       - F:\stock-analysis-real-time\statics\consumer.log:/app/consumer.log
   
